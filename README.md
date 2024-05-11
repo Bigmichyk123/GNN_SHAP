@@ -1,6 +1,7 @@
 Yuqi He
 All codes and experiments:
 https://github.com/Bigmichyk123/GNN_SHAP 
+
 Week 1 & 2 (02/05/2024 – 02/18/2024):
 Read the paper “Event-Aware Multimodal Mobility Nowcasting” by Wang et al. Focused mostly on the part where they experiment models.
 Attempted simple, more naïve models like historical average (HA) and naïve forecast (NF). It would be almost impossible to get SHAP to work on the explanations of these models due to their naiveness. Naïve Forecast has a significantly higher accuracy than historical average in most data.
